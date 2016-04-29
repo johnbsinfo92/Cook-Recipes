@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cook Recipes</string>
+
+    <string name="inst_pescado_al_vapor">En el microondas, sancochar los frijolitos chinos, agregar un chorrito de agua (cocción 2 minutos).\n\nUna vez cocidos, escurrir y agregar el sillao.\n\nSazonar el pescado (con sal y las hierbas), colocar el pimiento en tiras y hornearlo al microondas por 4 minutos, no es necesario voltear a media cocción.\n\nColocar el pescado en una fuente acompañado del frijolito chino.</string>
+    <string name="ingre_pescado_al_vapor">1) 500 gramos de dos filetes de pescado de 1/4 de kilo cada uno.\n\n2) 1 pimiento rojo pequeño en tiras.\n\n3) 1 pizca de eneldo.\n\n4) 1 pizca de mejorana.\n\n5) 1 pizca de salvia.\n\n6) 400 gramos de frijolito chino.\n\n7) 1 cucharada de sillao (salsa de soja).\n\n8) 1 pizca de romero.\n\n9) 0,5 cucharadita de sal.</string>
+
+    <string name="inst_almejas_salteadas">Póngase las almejas a fuego fuerte y cuando se abran rocíese con el limón y se espolvorean con perejil picado.</string>
+    <string name="ingre_almejas_salteadas">1) 1 kilo de almejas.\n\n2) 1 limón zumo.\n\n3) 1 cucharada de perejil picado.\n\n4) 1 pizca de sal.</string>
+
+    <string name="inst_trucha_al_jamon">Colocar la trucha abierta por el medio sin espinas encima de una loncha fina de jamón y ponerla en el plato cubriendo de nuevo el pescado con otra loncha de jamón.\n\nPoner en el horno durante 10 minutos y servir (el tiempo dependerá del tamaño del pescado o a gusto de cada uno).</string>
+    <string name="ingre_inst_trucha_al_jamon">1) 40 gramos de jamón.\n\n2) 200 gramos de trucha.</string>
+
+    <string name="inst_bistec_a_la_fiorentina">Se condimentan las chuletas con sal y pimienta.\n\nEn el aceite se doran unos minutos por ambas partes.</string>
+    <string name="ingre_bistec_a_la_fiorentina">1) 5 cucharadas de aceite.\n\n2) 4 chuletas.\n\n3) 2 pizcas de pimienta.</string>
+
+    <string name="inst_macarrones_con_chorizo">Cocer en abundante agua salada los macarrones.\n\nDespués de escurridos, mezclarlos con el tomate frito.\n\nUntar una fuente apta para horno con mantequilla y añadir los macarrones.\n\nAparte, cortar el chorizo en rodajitas y sofreírlo en aceite.\n\nEsparcir el chorizo por encima de los macarrones sin mezclarlo.</string>
+    <string name="ingre_macarrones_con_chorizo">1) 20 ccs de aceite.\n\n2) 2 chorizos para guisar.\n\n3) 400 gramos de macarrones.\n\n4) 15 gramos de mantequilla.\n\n5) 1 pizca de sal.\n\n6) 200 ccs de tomate frito.</string>
+
+
+
+
+</resources>
